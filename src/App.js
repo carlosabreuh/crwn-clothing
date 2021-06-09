@@ -7,6 +7,9 @@ function App() {
   return (
     <div> 
       <HomePage />
+      <div>
+        TEst 
+      </div>
     </div>
   );
 }
